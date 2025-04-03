@@ -1,0 +1,17 @@
+body{
+  font-family: "Arvo", serif;
+
+  background-image: url('../img/des04.jpg');
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 100vh;
+}
+button{
+  background-color: #feced9 !important;
+  font-size: 18px;
+    font-weight: 600;
+}
+p.press{
+  color: rgb(33 37 41 / 62%) !important;
+}
